@@ -1,1 +1,1 @@
-# DataTrained-Projects
+# This respository is an academic level practice Projects
